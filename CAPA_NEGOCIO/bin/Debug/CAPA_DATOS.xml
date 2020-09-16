@@ -1,0 +1,1120 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CAPA_DATOS
+</name>
+</assembly>
+<members>
+<member name="P:CAPA_DATOS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:CAPA_DATOS.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="T:CAPA_DATOS.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.AtletaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Atleta_X_CompetenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Club_FederaciónDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.CompetenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.DisciplinaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Disciplina_x_CompetenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Estado_CompetenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.JuezDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Juez_X_PruebaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LocalidadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Perfil_UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ProvinciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.PruebaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Prueba_CombinadaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Prueba_Combinada_X_PruebaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Resultado_FinalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Resultado_ParcialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.SexoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Tipo_JuezDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.VueltasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Vueltas_x_AtletaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.calcularedadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.CLUBESATLETASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.DisciplinasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ESTADOCOMPETENCIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_CompetenciasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_AtletaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_ClubDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_CompetenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_Competencia_PistaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincia_AtletaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincia_Competencia_CalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincia_CompetenciasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_ProvinciasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincias_ClubDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_SexosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Usuarios_CompetenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListaClubAtletaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOATLETASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoAtletasCalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOCLUBESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoCompetenciaCalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoCompetenciaPistaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOJUECESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoTodasCompetenciasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOUSUARIODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPERFILDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIACLUBDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIAJUEZDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIAPLANILLACALLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.localidad_x_provinciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.planillacalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.PruebasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Pruebas_x_DisciplinaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ReporteUsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.SexoatletaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.TIPOJUEZDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ultimaAtletaxCompetenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMACOMPETENCIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMACOMPETENCIACALLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOATLETADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOCLUBDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOJUEZDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOUSUARIODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.AtletaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Atleta_X_CompetenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Club_FederaciónRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.CompetenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.DisciplinaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Disciplina_x_CompetenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Estado_CompetenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.JuezRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Juez_X_PruebaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LocalidadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Perfil_UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ProvinciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.PruebaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Prueba_CombinadaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Prueba_Combinada_X_PruebaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Resultado_FinalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Resultado_ParcialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.SexoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Tipo_JuezRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.VueltasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Vueltas_x_AtletaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.calcularedadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.CLUBESATLETASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.DisciplinasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ESTADOCOMPETENCIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_CompetenciasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_AtletaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_ClubRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_CompetenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_Competencia_PistaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincia_AtletaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincia_Competencia_CalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincia_CompetenciasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_ProvinciasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincias_ClubRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_SexosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Usuarios_CompetenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListaClubAtletaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOATLETASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoAtletasCalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOCLUBESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoCompetenciaCalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoCompetenciaPistaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOJUECESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoTodasCompetenciasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOUSUARIORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPERFILRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIACLUBRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIAJUEZRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIAPLANILLACALLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.localidad_x_provinciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.planillacalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.PruebasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Pruebas_x_DisciplinaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ReporteUsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.SexoatletaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.TIPOJUEZRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ultimaAtletaxCompetenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMACOMPETENCIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMACOMPETENCIACALLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOATLETARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOCLUBRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOJUEZRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOUSUARIORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.AtletaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Atleta_X_CompetenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Club_FederaciónRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.CompetenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.DisciplinaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Disciplina_x_CompetenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Estado_CompetenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.JuezRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Juez_X_PruebaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LocalidadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Perfil_UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ProvinciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.PruebaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Prueba_CombinadaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Prueba_Combinada_X_PruebaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Resultado_FinalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Resultado_ParcialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.SexoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Tipo_JuezRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.VueltasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Vueltas_x_AtletaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.calcularedadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.CLUBESATLETASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.DisciplinasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ESTADOCOMPETENCIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_CompetenciasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_AtletaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_ClubRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_CompetenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Localidad_Competencia_PistaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincia_AtletaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincia_Competencia_CalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincia_CompetenciasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_ProvinciasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Provincias_ClubRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_SexosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Lista_Usuarios_CompetenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListaClubAtletaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOATLETASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoAtletasCalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOCLUBESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoCompetenciaCalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoCompetenciaPistaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOJUECESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ListadoTodasCompetenciasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTADOUSUARIORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPERFILRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIACLUBRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIAJUEZRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.LISTAPROVINCIAPLANILLACALLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.localidad_x_provinciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.planillacalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.PruebasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.Pruebas_x_DisciplinaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ReporteUsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.SexoatletaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.TIPOJUEZRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ultimaAtletaxCompetenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMACOMPETENCIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMACOMPETENCIACALLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOATLETARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOCLUBRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOJUEZRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet.ULTIMOUSUARIORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.AtletaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Atleta_X_CompetenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Club_FederaciónTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.CompetenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.DisciplinaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Disciplina_x_CompetenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Estado_CompetenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.JuezTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Juez_X_PruebaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.LocalidadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Perfil_UsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ProvinciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.PruebaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Prueba_CombinadaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Prueba_Combinada_X_PruebaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Resultado_FinalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Resultado_ParcialTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.SexoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Tipo_JuezTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.UsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.VueltasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Vueltas_x_AtletaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.calcularedadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.CLUBESATLETASTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.DisciplinasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ESTADOCOMPETENCIATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_CompetenciasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_Localidad_AtletaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_Localidad_ClubTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_Localidad_CompetenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_Localidad_Competencia_PistaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_Provincia_AtletaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_Provincia_Competencia_CalleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_Provincia_CompetenciasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_ProvinciasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_Provincias_ClubTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_SexosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Lista_Usuarios_CompetenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ListaClubAtletaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.LISTADOATLETASTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ListadoAtletasCalleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.LISTADOCLUBESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ListadoCompetenciaCalleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ListadoCompetenciaPistaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.LISTADOJUECESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ListadoTodasCompetenciasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.LISTADOUSUARIOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.LISTAPERFILTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.LISTAPROVINCIATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.LISTAPROVINCIACLUBTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.LISTAPROVINCIAJUEZTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.LISTAPROVINCIAPLANILLACALLETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.localidad_x_provinciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.planillacalleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.PruebasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.Pruebas_x_DisciplinaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ReporteUsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.SexoatletaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.TIPOJUEZTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ultimaAtletaxCompetenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ULTIMACOMPETENCIATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ULTIMACOMPETENCIACALLETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ULTIMOATLETATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ULTIMOCLUBTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ULTIMOJUEZTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.ULTIMOUSUARIOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CAPA_DATOS.TESIS_ATLETISMO_2016DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CAPA_DATOS.TESIS_ATLETISMO_2016DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CAPA_DATOS.TESIS_ATLETISMO_2016DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.TableAdapterManager.UpdateAll(CAPA_DATOS.TESIS_ATLETISMO_2016DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CAPA_DATOS.TESIS_ATLETISMO_2016DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,93 @@
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbprojResolveAssemblyReference.cache
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Resources.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\TESIS ATLETISMO 2016\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbproj.GenerateResource.Cache
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.xml
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbprojResolveAssemblyReference.cache
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Resources.resources
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbproj.GenerateResource.Cache
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.xml
+C:\Users\Margeo\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.xml
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbprojResolveAssemblyReference.cache
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Resources.resources
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbproj.GenerateResource.Cache
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.xml
+C:\Users\Abu\Documents\Visual Studio 2010\Projects\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.xml
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbprojResolveAssemblyReference.cache
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Resources.resources
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbproj.GenerateResource.Cache
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.xml
+C:\Users\valeria\Desktop\codigo_tesis\ATLETISMO\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbprojResolveAssemblyReference.cache
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Resources.resources
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbproj.GenerateResource.Cache
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.xml
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.xml
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\valeria\Desktop\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Resources.resources
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbproj.GenerateResource.Cache
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.xml
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbprojResolveAssemblyReference.cache
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.xml
+C:\Users\valeria\Desktop\codigo_tesis\TESIS ATLETISMO 2016\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbprojResolveAssemblyReference.cache
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Resources.resources
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbproj.GenerateResource.Cache
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.xml
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.xml
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.dll
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.xml
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.pdb
+E:\USUARIOS\vheredia\Downloads\TESIS ATLETISMO 2016 (21-02-17)\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.xml
