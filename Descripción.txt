@@ -4,7 +4,11 @@ Tiempo de desarrollo: 2015-2017.
 
 Sistema creado en visual basic (4 capas), Sql server, Crystal Reports.
 
-Se divide en dos grandes partes:
+Se divide en dos grandes tipos: 
 1- competencias de calle.
 2- competencias de pista y campo.
+
+Funcionamiento: 
+una vez cargados jueces, clubes, atletas, competencias, se habilitan los competidores segun el tipo de competencia a realizar y asi dar comienzo. Si es de calle, a medida que van llegando se carga el tiempo del atleta. Al finalizar la competencia el sistema da un informe con las posiciones y tiempos.
+Si es de pista y campo, de acuerdo al tipo de disciplina, el atleta va avanzando de rondas (en caso de que sea necesario, esto lo define el reglamento) hasta llegar a la ronda final donde el sistema vuelve a mostrar tiempos, alturas, posiciones de los participantes segun su categoria y sexo. 
 
