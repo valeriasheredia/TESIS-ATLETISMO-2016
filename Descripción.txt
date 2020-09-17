@@ -1,1 +1,10 @@
+Breve descripcion. 
+
+Tiempo de desarrollo: 2015-2017.
+
+Sistema creado en visual basic (4 capas), Sql server, Crystal Reports.
+
+Se divide en dos grandes partes:
+1- competencias de calle.
+2- competencias de pista y campo.
 
